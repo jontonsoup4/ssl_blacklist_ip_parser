@@ -6,5 +6,7 @@ ip_parser.py looks in a specified folder for all csv files. It then runs each cs
 
 #Running
 From a terminal, navigate to the folder containing the csv files and run ip_parser.py from there.
-sslipblacklist.csv is an example csv for input
-sslipblacklist.txt is an example txt of the output
+
+
+	sslipblacklist.csv is an example csv for input
+	sslipblacklist.txt is an example txt of the output
